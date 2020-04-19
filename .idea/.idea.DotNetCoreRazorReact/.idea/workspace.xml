@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a7fccc7-7e2a-4de0-9e37-b4027b1be046" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.DotNetCoreRazorReact/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DotNetCoreRazorReact/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,6 +38,7 @@
         <option value="$PROJECT_DIR$/DotNetCoreRazorReact/ReactApp/src/App.tsx" />
         <option value="$PROJECT_DIR$/DotNetCoreRazorReact/Pages/Shared/_Layout.cshtml" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -108,7 +109,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587290617711</updated>
-      <workItem from="1587290619048" duration="6358000" />
+      <workItem from="1587290619048" duration="7608000" />
     </task>
     <servers />
   </component>
