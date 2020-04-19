@@ -44,6 +44,12 @@ Everything else is the same as in a regular react application.
 # How to run it ? 
 If you start the .netCore application, the react app will run too,
 (because they are hosted in the same space).
+Prior to starting the app, you need to install the dependencies in the react app: 
+```
+cd ReactApp
+npm install
+```
+
 To develop, you need to go to
 ```
 cd ReactApp
