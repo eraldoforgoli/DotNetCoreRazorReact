@@ -47,6 +47,6 @@ If you start the .netCore application, the react app will run too,
 To develop, you need to go to
 ```
 cd ReactApp
-npm run dev
+npm start
 ```
 Webpack will do the magic and watch for changes in the react app.
