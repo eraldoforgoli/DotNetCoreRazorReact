@@ -6,7 +6,7 @@ import App from "./App";
 
 ReactDOM.render(
   <Provider store={store}>
-    <Suspense fallback={<div>duke ngarkuar...</div>}>
+    <Suspense fallback={<div>loading...</div>}>
       <App />
     </Suspense>
   </Provider>,
