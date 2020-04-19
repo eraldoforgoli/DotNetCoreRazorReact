@@ -1,0 +1,16 @@
+@page
+
+@{
+    Layout = null;
+    ViewData["Title"] = "React App";
+}
+
+@* Entry point for out react aapp *@
+<div id="react-app"></div>
+
+<environment names="Development">
+    <script src="~/dist/react_app.js"></script>
+</environment>
+<environment names="Staging,Production">
+    <script src="~/dist/react_app.js" asp-append-version="true"></script>
+</environment>
