@@ -7,6 +7,10 @@
 *.sln.docstates
 
 ./idea
+./DotNetCoreRazorReact/bin
+./DotNetCoreRazorReact/obj
+./DotNetCoreRazorReact/ReactApp/node_modules
+
 # Build results
 
 [Dd]ebug/
