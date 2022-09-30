@@ -33,7 +33,7 @@
     "react-final-form": "^6.3.0",
     "react-redux": "^7.2.0",
     "react-router-dom": "^5.1.2",
-    "recharts": "^1.8.5",
+    "recharts": "^2.1.14",
     "redux-devtools-extension": "2.13.8",
     "redux-thunk": "2.3.0",
     "redux": "^4.0.5"
